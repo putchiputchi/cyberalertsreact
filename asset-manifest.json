@@ -1,38 +1,15 @@
 {
   "files": {
-    "main.css": "/cyberalertsreact/static/css/main.742f1c7f.css",
-    "main.js": "/cyberalertsreact/static/js/main.6b8c8884.js",
+    "main.css": "/cyberalertsreact/static/css/main.e6c13ad2.css",
+    "main.js": "/cyberalertsreact/static/js/main.42685875.js",
     "static/js/787.19b3dd6a.chunk.js": "/cyberalertsreact/static/js/787.19b3dd6a.chunk.js",
-    "static/media/gradient-bg.jpg": "/cyberalertsreact/static/media/gradient-bg.0681ed60827c5e5b4ac4.jpg",
-    "static/media/slider-bg.jpg": "/cyberalertsreact/static/media/slider-bg.8cb0019f715ffaf33efe.jpg",
-    "static/media/section-2-bg.jpg": "/cyberalertsreact/static/media/section-2-bg.cd330824988e90479de8.jpg",
-    "static/media/radial.jpg": "/cyberalertsreact/static/media/radial.d24a51af6c27ce4ce6ef.jpg",
-    "static/media/section-4-bg.jpg": "/cyberalertsreact/static/media/section-4-bg.964a5808b850297682f2.jpg",
-    "static/media/radial-4.jpg": "/cyberalertsreact/static/media/radial-4.dbbb09249a3806469b00.jpg",
-    "static/media/radial-2.jpg": "/cyberalertsreact/static/media/radial-2.5141a810aca6337100e7.jpg",
-    "static/media/section-4a-bg.jpg": "/cyberalertsreact/static/media/section-4a-bg.3b4f399b1a6841111975.jpg",
-    "static/media/linear-bg.jpg": "/cyberalertsreact/static/media/linear-bg.a85523c0afc3d39b99c5.jpg",
-    "static/media/radial-3.jpg": "/cyberalertsreact/static/media/radial-3.8ba9b5cf23c6255570f9.jpg",
-    "static/media/fade-right.png": "/cyberalertsreact/static/media/fade-right.4502f877f807ab3f0049.png",
-    "static/media/fade-left.png": "/cyberalertsreact/static/media/fade-left.68b52cd8f5e83831b2ff.png",
-    "static/media/Aspekta-800.woff": "/cyberalertsreact/static/media/Aspekta-800.983cdfdfef39122eddd2.woff",
-    "static/media/Aspekta-700.woff": "/cyberalertsreact/static/media/Aspekta-700.d1b5a498365cb2edc0e8.woff",
-    "static/media/Aspekta-600.woff": "/cyberalertsreact/static/media/Aspekta-600.d2b176938e82b00e7abf.woff",
-    "static/media/Aspekta-500.woff": "/cyberalertsreact/static/media/Aspekta-500.df6d50eb815f26049462.woff",
-    "static/media/Aspekta-300.woff": "/cyberalertsreact/static/media/Aspekta-300.852503e43a605fbdc04f.woff",
-    "static/media/Aspekta-400.woff": "/cyberalertsreact/static/media/Aspekta-400.784f005f357c93e69464.woff",
-    "static/media/Aspekta-800.woff2": "/cyberalertsreact/static/media/Aspekta-800.93e277c96076c9c36cb8.woff2",
-    "static/media/Aspekta-500.woff2": "/cyberalertsreact/static/media/Aspekta-500.759fc8a36558b535671f.woff2",
-    "static/media/Aspekta-700.woff2": "/cyberalertsreact/static/media/Aspekta-700.3fbbc24094e8aa9540b4.woff2",
-    "static/media/Aspekta-600.woff2": "/cyberalertsreact/static/media/Aspekta-600.d9ba219d173dfce60142.woff2",
-    "static/media/Aspekta-400.woff2": "/cyberalertsreact/static/media/Aspekta-400.10830b694540c619d0e4.woff2",
     "index.html": "/cyberalertsreact/index.html",
-    "main.742f1c7f.css.map": "/cyberalertsreact/static/css/main.742f1c7f.css.map",
-    "main.6b8c8884.js.map": "/cyberalertsreact/static/js/main.6b8c8884.js.map",
+    "main.e6c13ad2.css.map": "/cyberalertsreact/static/css/main.e6c13ad2.css.map",
+    "main.42685875.js.map": "/cyberalertsreact/static/js/main.42685875.js.map",
     "787.19b3dd6a.chunk.js.map": "/cyberalertsreact/static/js/787.19b3dd6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.742f1c7f.css",
-    "static/js/main.6b8c8884.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.42685875.js"
   ]
 }
